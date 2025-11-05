@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Leooonado
 - 👀 I’m interested in Marketing Analytics
 - 🌱 I’m currently learning R, Python
-- 📫 How to reach me
+- 📫 How to reach me ⬇
 - Discord:leooonado, Instagram:Le_ooonardo_yun, LinkedIn:Leyun Yuan
 - 😄 Pronouns: She/her/They/them
 - ⚡ Fun fact: Life to be Weeb and get stuck in Gacha Game XP
