@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @Leooonado
 - 👀 I’m interested in Marketing Analytics
 - 🌱 I’m currently learning R, Python
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me
+- Discord:leooonado, Instagram:Le_ooonardo_yun, LinkedIn:Leyun Yuan
 - 😄 Pronouns: She/her/They/them
-- ⚡ Fun fact: Just a student so far...
+- ⚡ Fun fact: Life to be Weeb and get stuck in Gacha Game XP
 
 <!---
 Leooonado/Leooonado is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
